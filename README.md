@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on enhance my skills in generating deeper, impactful, and concise analyses.<br>👯 I’m looking to collaborate with a data scientist or data analyst team.<br>🌱 I’m currently learning Python, some libraries, SQL, Data Visualization Tools, and soon Machine Learning.<br>💬 Financial markets, video games, economics, music and astronomy.<br>⚡ I was a university professor, I drove a forklift, I helped to manage an international investment fund, .
+🔭 I’m currently working on enhance my skills in generating deeper, impactful, and concise analyses.<br>👯 I’m looking to collaborate with a data scientist or data analyst team.<br>🌱 I’m currently learning Python, some libraries, SQL, Data Visualization Tools, and soon Machine Learning.<br>💬 Financial markets, video games, economics, music and astronomy.<br>⚡ I was a university professor, I drove a forklift, I helped to manage an international investment fund.
 
 
 ## 🌐 Socials:
